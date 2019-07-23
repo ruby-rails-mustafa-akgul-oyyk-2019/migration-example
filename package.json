@@ -1,5 +1,5 @@
 {
-  "name": "first_app",
+  "name": "migration_example",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0-alpha",
